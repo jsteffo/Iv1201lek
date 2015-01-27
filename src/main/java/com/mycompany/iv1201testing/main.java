@@ -9,6 +9,8 @@ package com.mycompany.iv1201testing;
  *
  * @author Victor
  */
-public class main {
+public class main 
+{
     
 }
+//Test Commit
